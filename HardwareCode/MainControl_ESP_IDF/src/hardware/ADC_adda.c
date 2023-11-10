@@ -1,4 +1,4 @@
-#include "adda.h"
+#include "ADC_adda.h"
 
 
 // Create spi handle
