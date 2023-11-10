@@ -7,7 +7,7 @@
 #include "freertos/task.h"
 #include "freertos/queue.h"
 #include "UartSend.h"
-#include "hardware/adda.h"
+#include "hardware/ADC_adda.h"
 #include "command/cformat.h"
 #include "rom/ets_sys.h"
 #include "ApproachHandleControl.h"
