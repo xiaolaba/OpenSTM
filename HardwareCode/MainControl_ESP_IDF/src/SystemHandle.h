@@ -5,8 +5,8 @@
 #include "freertos/task.h"
 #include "freertos/queue.h"
 #include "UartSend.h"
-#include "hardware/ad5761.h"
-#include "hardware/adda.h"
+#include "hardware/DAC_ad5761.h"
+#include "hardware/ADC_adda.h"
 #include "header/commandlist.h"
 #include "header/prioritylist.h"
 
