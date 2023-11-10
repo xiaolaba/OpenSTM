@@ -25,6 +25,9 @@ void approachH_init(){
     &approach_handle, CORE_APPROACH);
 }
 
+
+// Piezoelectric slider, forward driving voltage ??
+// amp ?
 int triangle_Wave_forward(int step, int amp, int inc){
     uint16_t data = 0;
     int read;
