@@ -1,8 +1,8 @@
 // Reference: https://github.com/Helmuthn/ads8689_Arduino
 // Reference: https://github.com/paulvha/AD57xx
 
-#ifndef adda_h
-#define adda_h
+#ifndef ADC_adda_h
+#define ADC_adda_h
 
 #include "driver/spi_master.h"
 #include "driver/gpio.h"
