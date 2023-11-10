@@ -1,4 +1,7 @@
 #include "ADC_adda.h"
+// ads8685 ADC, measure voltage output by (TIA) amplifier
+// ad5721, DAC to drive pizo slider
+// close loop function
 
 
 // Create spi handle
