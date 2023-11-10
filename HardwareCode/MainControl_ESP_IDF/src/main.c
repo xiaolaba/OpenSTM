@@ -1,7 +1,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
-#include "hardware/ad5761.h"
-#include "hardware/adda.h"
+#include "hardware/DAC_ad5761.h"
+#include "hardware/ADC_adda.h"
 #include "UartHandle.h"
 #include "CommandDistribute.h"
 
