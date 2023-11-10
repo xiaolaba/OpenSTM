@@ -1,7 +1,7 @@
 // Reference: https://github.com/hellange/AD5761
 
-#ifndef ad5761_h
-#define ad5761_h
+#ifndef DAC_ad5761_h
+#define DAC_ad5761_h
 
 #include "driver/spi_master.h"
 #include "driver/gpio.h"
